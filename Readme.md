@@ -2,7 +2,7 @@
 
 - This project is a landing page for portfolioss. 
 
-[Netlify](https://portfolio-landing-page-harshthakkar1011.netlify.app/)
+[Netlify](https://portfolio-landing-page-harshcodes.netlify.app/)
 
 ![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
