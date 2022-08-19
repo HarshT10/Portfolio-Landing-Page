@@ -1,6 +1,6 @@
 # **Project 15 - Portfolio Landing Page**
 
-- This project is a landing page for portfolioss. 
+- This project is a landing page for portfolios. It is fully responsive.
 
 [Netlify](https://portfolio-landing-page-harshcodes.netlify.app/)
 
