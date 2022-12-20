@@ -418,7 +418,7 @@ footer {
 .media-icons .media-icon {
     font-size: 1.5rem;
     color: #ffffff;
-    margin: 10px 30px;
+    margin: 10px;
 }
 
 @media only screen and (max-width: 1440px) {
@@ -618,17 +618,18 @@ footer {
         flex-direction: column;
         gap: 50px;
     }
-    
+
     .project-cards .card-wrapper {
         width: 60%;
     }
-    
+
     .project-cards .row-1 .card,
     .project-cards .row-2 .card {
         height: 300px;
     }
-    
-    .project-cards .row-1, .project-cards .row-2 {
+
+    .project-cards .row-1,
+    .project-cards .row-2 {
         padding-top: 50px;
     }
 
@@ -727,24 +728,25 @@ footer {
         flex-direction: column;
         gap: 50px;
     }
-    
+
     .project-cards .card-wrapper {
         width: 80%;
     }
-    
+
     .project-cards .row-1 .card,
     .project-cards .row-2 .card {
         height: 350px;
     }
-    
-    .project-cards .row-1, .project-cards .row-2 {
+
+    .project-cards .row-1,
+    .project-cards .row-2 {
         padding-top: 50px;
     }
 
     .card-wrapper .project-name h3 {
         font-size: 1.3rem;
     }
-    
+
     .card-wrapper .project-name a {
         font-size: 1rem;
     }
@@ -761,11 +763,11 @@ footer {
 
 @media only screen and (max-width: 480px) {
 
-    .brand-logo{
+    .brand-logo {
         width: 80%;
     }
 
-    .menu-logo{
+    .menu-logo {
         font-size: 1.5rem;
     }
 
@@ -808,24 +810,25 @@ footer {
         flex-direction: column;
         gap: 50px;
     }
-    
+
     .project-cards .card-wrapper {
         width: 100%;
     }
-    
+
     .project-cards .row-1 .card,
     .project-cards .row-2 .card {
         height: 300px;
     }
-    
-    .project-cards .row-1, .project-cards .row-2 {
+
+    .project-cards .row-1,
+    .project-cards .row-2 {
         padding-top: 50px;
     }
 
     .card-wrapper .project-name h3 {
         font-size: 1rem;
     }
-    
+
     .card-wrapper .project-name a {
         font-size: 1rem;
     }
@@ -851,11 +854,11 @@ footer {
         align-items: center;
     }
 
-    .footer .footer-logo{
+    .footer .footer-logo {
         width: 25%;
     }
 
-    .footer .brand-logo{
+    .footer .brand-logo {
         width: 100%;
     }
 
@@ -864,7 +867,7 @@ footer {
         display: flex;
         gap: 50px;
     }
-    
+
     .media-icons .media-icon {
         font-size: 1rem;
         margin: 0;
@@ -879,7 +882,7 @@ footer {
         font-size: .7rem;
     }
 
-    .text-wrapper h3{
+    .text-wrapper h3 {
         font-size: 1.5rem;
     }
 
@@ -904,27 +907,27 @@ footer {
         margin-top: 60%;
     }
 
-    .col-1 h1{
+    .col-1 h1 {
         font-size: 4rem;
     }
 
-    .col-1 h3{
+    .col-1 h3 {
         font-size: 1rem;
     }
 
     .heading p {
         font-size: .8rem;
     }
-    
+
     .project-cards .card-wrapper {
         width: 100%;
     }
-    
+
     .project-cards .row-1 .card,
     .project-cards .row-2 .card {
         height: 230px;
     }
- 
+
     .contact .contact-text h2 {
         font-size: 1.2rem;
     }
